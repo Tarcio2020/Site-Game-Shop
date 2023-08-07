@@ -28,9 +28,26 @@ header nav li a {
     margin: 0 auto;
 }
 
-header .container {
+header .container,
+section .container {
     display: flex;
     align-items: center;
     justify-content: space-between;
 }
 
+.brands-list {
+    width: 24px;
+}
+
+.brands-list li{
+    display: inline;
+}
+
+
+section .container {
+    align-items: flex-start;
+}
+
+section {
+    padding: 24px 0;
+}
