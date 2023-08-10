@@ -92,3 +92,24 @@ section p {
 .store-front {
  margin-right: 32px;  
 }
+
+.social-links img {
+    height: 24px;
+
+}
+
+#contact .container {
+    display: block;
+}
+
+.contact-methods {
+    display: flex;
+}
+
+form input,
+form textarea,
+form button {
+    display: block;
+    width: 320px;
+    margin-bottom: 8px;
+}
