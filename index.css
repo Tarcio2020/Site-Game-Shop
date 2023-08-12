@@ -22,12 +22,19 @@ header {
     
 }
 
+#cima {
+    display: inline-flex;
+    text-decoration: none;
+    color: #ecf0f1;
+    margin-left: 40px;
 
+}
 
 header nav li {
     display: inline;
     margin-left: 16px;
     font-size: 18px;
+    
 }
     
 
