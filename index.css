@@ -1,3 +1,7 @@
+
+
+
+
 * {
     margin: 0;
     padding: 0;
@@ -22,19 +26,16 @@ header {
     
 }
 
-#cima {
-    display: inline-flex;
-    text-decoration: none;
-    color: #ecf0f1;
-    margin-left: 40px;
+.cisc {
+font-weight: normal;
+
 
 }
 
 header nav li {
     display: inline;
     margin-left: 16px;
-    font-size: 18px;
-    
+    font-size: 18px; 
 }
     
 
@@ -48,7 +49,7 @@ header nav li a {
 }
 
 .container {
-    max-width: 1280px;
+    max-width: 900px;
     width: 100%;
     margin: 0 auto;
 }
@@ -96,7 +97,8 @@ section p {
 
 
 .store-front {
- margin-right: 32px;  
+ margin-right: 32px;
+ width: 420px;  
 }
 
 .social-links img {
