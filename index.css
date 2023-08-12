@@ -62,7 +62,8 @@ section .container {
 }
 
 .brands-list img{
-    height: 24px;
+    height: 40px;
+    margin-top: 20px;
 }
 
 .brands-list li{
